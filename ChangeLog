@@ -1,0 +1,10 @@
+2013-10-28 22:05  alceu.freitas.jr@gmail.com
+
+	* ., Makefile.PL, README: - added useful information to README
+	  - added correct version required to the Makefile.PL
+	  - updated the list of requirements of the Bundle
+
+2013-10-22 22:14  alceu.freitas.jr@gmail.com
+
+	* lib/Bundle/Siebel/MonitoringTools.pm: list of requirements were
+	  updated

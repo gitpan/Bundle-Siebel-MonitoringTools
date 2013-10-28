@@ -1,10 +1,10 @@
 package Bundle::Siebel::MonitoringTools;
 
-use 5.016003;
+use 5.008009;
 use strict;
 use warnings;
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 1;
 __END__
@@ -24,9 +24,9 @@ None by default.
 
 =head1 CONTENTS
 
-	namespace::autoclean [0.13]
+    namespace::autoclean [0.13]
     Moose [2.0401]
-    FSA::Rules [0.29]
+    FSA::Rules [0.32]
     MooseX::Storage [0.33]
     Moose::Util::TypeConstraints [2.0402]
     MooseX::Params::Validate [0.15]
@@ -34,15 +34,24 @@ None by default.
     MooseX::Singleton [0.27]
     MooseX::FollowPBP [0.05]
     Log::Log4perl [1.41]
-    Log::Dispatch [2.39]
     YAML::Syck [1.27]
     Config::Tiny [2.14]
     DBD::ODBC [1.43]
     DBI [1.623]
     Nagios::Plugin [0.36]
-	Config::Tiny [2.14]
-	DBD::ODBC [1.43]
-	DBI [1.623]
+    Config::Tiny [2.14]
+    DBD::ODBC [1.43]
+    DBI [1.623]
+    Term::Pulse [0.05]
+    XML::Rabbit [0.3]
+    Devel::CheckOS [1.71]
+    Class::Data::Inheritable [0.08]
+    Test::Class [0.36]
+    Test::Memory::Cycle [1.04]
+    Test::Most [0.25]
+    Test::Pod [1.22]
+    Test::Pod::Coverage [1.08]
+	Test::Moose [2.0801]
 
 =head1 SEE ALSO
 
